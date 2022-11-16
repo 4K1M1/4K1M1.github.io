@@ -2,6 +2,6 @@
 --- 
 CRUSH NA KITA I LAB U
 MY FAV GAMES 
-**VALORANT**
-**ROBLOX**
-**CODM**
+-Valorant
+-ROBLOX
+-CODM
