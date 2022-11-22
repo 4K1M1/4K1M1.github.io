@@ -26,9 +26,9 @@ CRUSH NA KITA I LAB U
 ---
 My Relax songs
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5IPtfIewUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
----
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/152sJgmftB46Q6IsDTUDLN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
----
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3AJwUDP919kvQ9QcozQPxg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
----
+
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3113Ux2drXauSunVHSPLgD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
