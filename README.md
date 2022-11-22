@@ -26,3 +26,7 @@ CRUSH NA KITA I LAB U
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n5IPtfIewUY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+---
+https://open.spotify.com/track/152sJgmftB46Q6IsDTUDLN?si=d2d62059dfe74e99
+---
+https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg?si=e3b0accd6cb64530
