@@ -23,7 +23,7 @@ CRUSH NA KITA I LAB U
 |EVERYDAY|
 |--------|
 
-https://www.youtube.com/watch?v=njj-g5N5XSg&t=47s
+https://www.youtube.com/watch?v=njj-g5N5XSg
 
 My Relax songs
  
