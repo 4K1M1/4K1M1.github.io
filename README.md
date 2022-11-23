@@ -22,14 +22,15 @@ CRUSH NA KITA I LAB U
 
 |EVERYDAY|
 |--------|
-https://www.youtube.com/watch?v=njj-g5N5XSg&t=3s
+
 ---
+https://www.youtube.com/watch?v=njj-g5N5XSg&t=47s
 My Relax songs
  
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mea3bSkSGXuIRvnydlB5b?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-
-
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4iJyoBOLtHqaGxP12qzhQI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3AJwUDP919kvQ9QcozQPxg?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
